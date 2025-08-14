@@ -9,7 +9,9 @@ git config --global user.name "Vitor Vido"
 
 git config --global user.email "vitorvido03@gmail.com"
 ```
-## Aula 01
+## Aula 01 - Comandos para gestão do GIT 
 Pasta -> git init-> code./comandos.md <-save
 git status (opcional) git add . -> git commit -m "Mensagem" 
 repita sempre o processo git add. -> git commit -m "Mensagem"
+
+
