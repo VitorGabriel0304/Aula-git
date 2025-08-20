@@ -13,5 +13,13 @@ git config --global user.email "vitorvido03@gmail.com"
 Pasta -> git init-> code./comandos.md <-save
 git status (opcional) git add . -> git commit -m "Mensagem" 
 repita sempre o processo git add. -> git commit -m "Mensagem"
+Para adicionar todos os arquivos de um repositorio usamos o comando
 
-
+  Assim adicionamos todos os arquivos que estão dentro do repositorio
+  ``` Bash 
+Git Add .
+  ```
+Para criar uma nova versão de tudo que foi modificado usamos, a frente do comando , colocamos uma mensagem para saber o que foi alterado
+``` Bash 
+Git Commit -m  
+  ```
