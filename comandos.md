@@ -9,26 +9,35 @@ git config --global user.name "Vitor Vido"
 
 git config --global user.email "vitorvido03@gmail.com"
 ```
+
+
+
 ## Aula 01 - Comandos para gestão do GIT 
 Pasta -> git init-> code./comandos.md <-save
 git status (opcional) git add . -> git commit -m "Mensagem" 
 repita sempre o processo git add. -> git commit -m "Mensagem"
 Para adicionar todos os arquivos de um repositorio usamos o comando
 
+# Git ADD .
   Assim adicionamos todos os arquivos que estão dentro do repositorio
   ``` Bash 
 Git Add .
   ```
+# Git commit -m
 Para criar uma nova versão de tudo que foi modificado usamos, a frente do comando , colocamos uma mensagem para saber o que foi alterado
 ``` Bash 
 Git Commit -m  
   ```
-  ### Abrir a pasta da aula pelo CMD
+  
+  
+  ### Aula dia 27 de agosto de 2025
+  
+  # Abrir a pasta da aula pelo CMD
    cd \projetos-bd
    cd aula-git
 
-   ### Abrir o code no terminal
+   # Abrir o code no terminal
    Code .
 
-   ### Git Push 
-   O comando git push envia os arquivos salvos no pc para o github , salvando em nunvem
+   # Git Push 
+   O comando git push envia os arquivos salvos no pc para o github , salvando em nuvem
