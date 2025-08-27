@@ -12,7 +12,6 @@ git config --global user.email "vitorvido03@gmail.com"
 
 
 
-# Aula 01 - Comandos para gestão do GIT 
 Pasta -> git init-> code./comandos.md <-save
 git status (opcional) git add . -> git commit -m "Mensagem" 
 repita sempre o processo git add. -> git commit -m "Mensagem"
@@ -30,7 +29,7 @@ Git Commit -m
   ```
   
   
-  # Aula dia 27 de agosto de 2025
+ 
   
   ### Abrir a pasta da aula pelo CMDcod
    cd \projetos-bd
