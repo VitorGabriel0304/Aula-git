@@ -29,3 +29,6 @@ Git Commit -m
 
    ### Abrir o code no terminal
    Code .
+
+   ### Git Push 
+   O comando git push envia os arquivos salvos no pc para o github , salvando em nunvem
