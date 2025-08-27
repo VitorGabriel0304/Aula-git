@@ -32,7 +32,7 @@ Git Commit -m
   
   # Aula dia 27 de agosto de 2025
   
-  ### Abrir a pasta da aula pelo CMD
+  ### Abrir a pasta da aula pelo CMDcod
    cd \projetos-bd
    cd aula-git
 
@@ -42,5 +42,11 @@ Git Commit -m
    ### Git Push 
    O comando git push envia os arquivos salvos no pc para o github , salvando em nuvem.
    
-   ### Git Pull
-   Git pull baixa todas as atualizações que o repositorio tem no github e não esta em sua maquina
+   ## Git Pull
+   Baixar todas as atualizaçoes do repositorio para a maquina
+
+   ## Git clone
+   Usar o git clone com essa URL para clonar a pasta em um computador que não tenha ela
+   https://github.com/VitorGabriel0304/Aula-git
+
+  
