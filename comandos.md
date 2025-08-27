@@ -23,3 +23,6 @@ Para criar uma nova versão de tudo que foi modificado usamos, a frente do coman
 ``` Bash 
 Git Commit -m  
   ```
+  ### Abrir a pasta da aula pelo CMD
+   cd \projetos-bd
+   cd aula-git
