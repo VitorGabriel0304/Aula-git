@@ -37,9 +37,9 @@ Git Commit -m
    cd aula-git
 
    ### Abrir o code no terminal
-      ``` Bash 
+      
 Code .
-  ```
+ 
 
    ### Git Push 
    O comando git push envia os arquivos salvos no pc para o github , salvando em nuvem.
