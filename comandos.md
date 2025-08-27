@@ -1,4 +1,4 @@
-# Comandos e intrusções para Git HUB
+# Comandos e instruções para Git HUB
 Neste arquivo sera apresentado os comandos git para uso futuro.
 
 ## No primeiro uso em um computador 
