@@ -26,3 +26,6 @@ Git Commit -m
   ### Abrir a pasta da aula pelo CMD
    cd \projetos-bd
    cd aula-git
+
+   ### Abrir o code no terminal
+   Code .
