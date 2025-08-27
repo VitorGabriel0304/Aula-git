@@ -37,13 +37,23 @@ Git Commit -m
    cd aula-git
 
    ### Abrir o code no terminal
-   Code .
+      ``` Bash 
+Code .
+  ```
 
    ### Git Push 
    O comando git push envia os arquivos salvos no pc para o github , salvando em nuvem.
-   
+
+   ``` Bash 
+Git push  
+  ```
+
    ### Git Pull
    Baixar todas as atualizaçoes do repositorio para a maquina
+
+``` Bash 
+Git pull
+  ```
 
    ### Git clone
    Usar o git clone com essa URL para clonar a pasta em um computador que não tenha ela
