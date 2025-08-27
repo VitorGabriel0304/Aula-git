@@ -41,3 +41,6 @@ Git Commit -m
 
    ### Git Push 
    O comando git push envia os arquivos salvos no pc para o github , salvando em nuvem.
+   
+   ### Git Pull
+   Git pull baixa todas as atualizações que o repositorio tem no github e não esta em sua maquina
