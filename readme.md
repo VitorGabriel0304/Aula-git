@@ -58,5 +58,7 @@ Git pull
    ### Git clone
    Usar o git clone com essa URL para clonar a pasta em um computador que não tenha ela
    https://github.com/VitorGabriel0304/Aula-git
-
   
+``` Bash 
+Git clone  
+  ```
